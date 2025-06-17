@@ -33,7 +33,7 @@ body{
     box-shadow: 0 0 1rem rgba(0,0,0,0.4);
     font-size: 8vmin;
     color: rgb(233, 84, 84);
-    background-color: rgb(207, 207, 125);
+    background-color: rgb(209, 209, 119);
 
     
 }
@@ -44,4 +44,27 @@ body{
     border: none;
     color: #fff;
     background-color: #191913;
+}
+#new-btn{
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    border: none;
+    color: #fff;
+    background-color: #191913;
+}
+#msg{
+    color: black;
+    font-size: 6vmin;
+}
+.msg-container{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+.hide{
+    display: none;
 }
