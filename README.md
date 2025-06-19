@@ -4,15 +4,15 @@
 A simple Tic Tac Toe game built with HTML, CSS, and JavaScript for two players.
 
 ## Features
-- Interactive 3x3 grid
-- Two-player mode
-- Highlights enabled boxes for the next move
-- Detects win, draw, and ongoing game states
+- Interactive 3x3 grid.
+- Two-player mode.
+- Highlights enabled boxes for the next move.
+- Detects win, draw, and ongoing game states.
 
 ## Getting Started
 
 ### Prerequisites
-- A modern web browser
+- A modern web browser.
 
 ### Installation
 1. Download or clone this repository.
